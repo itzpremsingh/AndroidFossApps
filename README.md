@@ -822,8 +822,7 @@ If you want to help out with the project, here are some ideas:
 #### Tic Tac Toe
 
 - [Dooz](https://github.com/yamin8000/Dooz)
-- [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe)
-- [Number Tic-Tac-Toe](https://github.com/YangDai-Github/Number_Tic_Tac_Toe-Android)
+- [Number Tic-Tac-Toe](https://github.com/YangDai-Github/Number_Tic_Tac_Toe-Android) **`DEAD`**
 - [TicTacToe](https://github.com/kafri8889/Compose-TicTacToe)
 
 #### Quiz/Trivia
