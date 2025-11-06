@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [LiftLog](https://github.com/LiamMorrow/LiftLog)
 - [Stepsy](https://github.com/nvllz/stepsy)
 - [Rhythm](https://github.com/cromaguy/Rhythm)
 - [Right Contacts](https://github.com/Goodwy/Contacts)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [XoDos](https://github.com/xodiosx/XoDos)
 - [TorrentSearch](https://github.com/prajwalch/TorrentSearch)
 - [Repertoir](https://github.com/Adithya-Jayan/MyRepertoirApp)
-- [PixelPlay](https://github.com/theovilardo/PixelPlay)
 
 </details>
 
@@ -1625,6 +1625,7 @@ If you want to help out with the project, here are some ideas:
 - [FoodYou](https://github.com/maksimowiczm/FoodYou)
 - [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 - [Habit-Maker](https://github.com/dessalines/habit-maker)
+- [LiftLog](https://github.com/LiamMorrow/LiftLog)
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 - [Norm](https://github.com/tusharonly/norm)
 - [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
