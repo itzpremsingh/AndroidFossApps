@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Stepsy](https://github.com/nvllz/stepsy)
 - [Rhythm](https://github.com/cromaguy/Rhythm)
 - [Right Contacts](https://github.com/Goodwy/Contacts)
 - [Right Dialer](https://github.com/Goodwy/Dialer)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [TorrentSearch](https://github.com/prajwalch/TorrentSearch)
 - [Repertoir](https://github.com/Adithya-Jayan/MyRepertoirApp)
 - [PixelPlay](https://github.com/theovilardo/PixelPlay)
-- [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
 
 </details>
 
@@ -1630,6 +1630,7 @@ If you want to help out with the project, here are some ideas:
 - [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
 - [Paseo](https://gitlab.com/pardomi/paseo/tree/HEAD)
 - [Sobriety](https://github.com/KiARC/Sobriety)
+- [Stepsy](https://github.com/nvllz/stepsy)
 - [Table Habit](https://github.com/FriesI23/mhabit)
 - [Waistline](https://github.com/davidhealey/waistline)
 - [Wger](https://github.com/wger-project/flutter)
