@@ -944,7 +944,7 @@ If you want to help out with the project, here are some ideas:
 ### :compass: Maps & Navigation
 
 - [BTC Map](https://github.com/teambtcmap/btcmap-android)
-- [Bimba](https://git.apiote.xyz/Bimba.git)
+- [Bimba](https://codeberg.org/bimba/czwek.git)
 - [Compass](https://github.com/Kr0oked/Compass)
 - [FakeTraveler](https://github.com/mcastillof/FakeTraveler)
 - [Geomag](https://github.com/ya0211/Geomag) **`DEAD`**
