@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Kenko](https://github.com/Iamlooker/Kenko)
 - [AOSmium](https://codeberg.org/AXP-OS/app_aosmium)
 - [LiftLog](https://github.com/LiamMorrow/LiftLog)
 - [Stepsy](https://github.com/nvllz/stepsy)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Podcaster](https://github.com/mr3y-the-programmer/Podcaster)
 - [LTE Cleaner FOSS](https://github.com/MDP43140/LTECleanerFOSS)
 - [XoDos](https://github.com/xodiosx/XoDos)
-- [TorrentSearch](https://github.com/prajwalch/TorrentSearch)
 
 </details>
 
@@ -1626,6 +1626,7 @@ If you want to help out with the project, here are some ideas:
 - [FoodYou](https://github.com/maksimowiczm/FoodYou)
 - [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 - [Habit-Maker](https://github.com/dessalines/habit-maker)
+- [Kenko](https://github.com/Iamlooker/Kenko)
 - [LiftLog](https://github.com/LiamMorrow/LiftLog)
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 - [Norm](https://github.com/tusharonly/norm)
