@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [AOSmium](https://codeberg.org/AXP-OS/app_aosmium)
 - [LiftLog](https://github.com/LiamMorrow/LiftLog)
 - [Stepsy](https://github.com/nvllz/stepsy)
 - [Rhythm](https://github.com/cromaguy/Rhythm)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [LTE Cleaner FOSS](https://github.com/MDP43140/LTECleanerFOSS)
 - [XoDos](https://github.com/xodiosx/XoDos)
 - [TorrentSearch](https://github.com/prajwalch/TorrentSearch)
-- [Repertoir](https://github.com/Adithya-Jayan/MyRepertoirApp)
 
 </details>
 
@@ -325,6 +325,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Chromium Based
 
+- [AOSmium](https://codeberg.org/AXP-OS/app_aosmium)
 - [Cromite](https://github.com/uazo/cromite)
 - [Thorium](https://github.com/Alex313031/Thorium-Android)
 - [Ultimatum](https://github.com/gonzazoid/Ultimatum)
