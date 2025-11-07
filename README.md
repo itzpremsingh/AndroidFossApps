@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [AI Hub](https://github.com/SilentCoderHere/AI-Hub)
 - [Kenko](https://github.com/Iamlooker/Kenko)
 - [AOSmium](https://codeberg.org/AXP-OS/app_aosmium)
 - [LiftLog](https://github.com/LiamMorrow/LiftLog)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Toolkit Tiles](https://github.com/WSTxda/Toolkit-Tiles)
 - [Podcaster](https://github.com/mr3y-the-programmer/Podcaster)
 - [LTE Cleaner FOSS](https://github.com/MDP43140/LTECleanerFOSS)
-- [XoDos](https://github.com/xodiosx/XoDos)
 
 </details>
 
@@ -276,6 +276,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :robot: Artificial Intelligence
 
+- [AI Hub](https://github.com/SilentCoderHere/AI-Hub)
 - [BotForge](https://github.com/L4TTiCe/BotForge) **`DEAD`**
 - [Colors AI](https://github.com/tsinis/colors_ai)
 - [Copilot OCR](https://github.com/YangDai2003/CopilotOCR-Android) **`DEAD`**
