@@ -39,6 +39,10 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Kenko](https://github.com/Iamlooker/Kenko)
+- [AOSmium](https://codeberg.org/AXP-OS/app_aosmium)
+- [LiftLog](https://github.com/LiamMorrow/LiftLog)
+- [Stepsy](https://github.com/nvllz/stepsy)
 - [Rhythm](https://github.com/cromaguy/Rhythm)
 - [Right Contacts](https://github.com/Goodwy/Contacts)
 - [Right Dialer](https://github.com/Goodwy/Dialer)
@@ -60,10 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Podcaster](https://github.com/mr3y-the-programmer/Podcaster)
 - [LTE Cleaner FOSS](https://github.com/MDP43140/LTECleanerFOSS)
 - [XoDos](https://github.com/xodiosx/XoDos)
-- [TorrentSearch](https://github.com/prajwalch/TorrentSearch)
-- [Repertoir](https://github.com/Adithya-Jayan/MyRepertoirApp)
-- [PixelPlay](https://github.com/theovilardo/PixelPlay)
-- [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
 
 </details>
 
@@ -325,6 +325,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Chromium Based
 
+- [AOSmium](https://codeberg.org/AXP-OS/app_aosmium)
 - [Cromite](https://github.com/uazo/cromite)
 - [Thorium](https://github.com/Alex313031/Thorium-Android)
 - [Ultimatum](https://github.com/gonzazoid/Ultimatum)
@@ -942,7 +943,7 @@ If you want to help out with the project, here are some ideas:
 ### :compass: Maps & Navigation
 
 - [BTC Map](https://github.com/teambtcmap/btcmap-android)
-- [Bimba](https://git.apiote.xyz/Bimba.git)
+- [Bimba](https://codeberg.org/bimba/czwek.git)
 - [Compass](https://github.com/Kr0oked/Compass)
 - [FakeTraveler](https://github.com/mcastillof/FakeTraveler)
 - [Geomag](https://github.com/ya0211/Geomag) **`DEAD`**
@@ -1624,11 +1625,14 @@ If you want to help out with the project, here are some ideas:
 - [FoodYou](https://github.com/maksimowiczm/FoodYou)
 - [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 - [Habit-Maker](https://github.com/dessalines/habit-maker)
+- [Kenko](https://github.com/Iamlooker/Kenko)
+- [LiftLog](https://github.com/LiamMorrow/LiftLog)
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 - [Norm](https://github.com/tusharonly/norm)
 - [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
 - [Paseo](https://gitlab.com/pardomi/paseo/tree/HEAD)
 - [Sobriety](https://github.com/KiARC/Sobriety)
+- [Stepsy](https://github.com/nvllz/stepsy)
 - [Table Habit](https://github.com/FriesI23/mhabit)
 - [Waistline](https://github.com/davidhealey/waistline)
 - [Wger](https://github.com/wger-project/flutter)
